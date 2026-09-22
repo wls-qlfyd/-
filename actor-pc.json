@@ -1,0 +1,19 @@
+{
+  "meta": {
+    "appVersion": "1.260903.1",
+    "extractedAt": "2026-09-03T09:33:30.501Z",
+    "patch": "fc96b",
+    "rowCount": 1,
+    "schema": "FBDataActorPC",
+    "sourceAsset": "FBDataActorPC",
+    "sourceConfig": "https://afk.icecatgames.net/remote/PatchResource/config.fc96b.json"
+  },
+  "rows": [
+    {
+      "id": 1234,
+      "prefab": "01.Characters/01.Clothes/avatar_0rigin/avatar_origin",
+      "attackSfx": "12.Sound/SFX_PLAYER_SWING_WIND_1",
+      "statKey": "statsetattribute_A_1"
+    }
+  ]
+}
